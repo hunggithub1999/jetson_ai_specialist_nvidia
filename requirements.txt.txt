@@ -1,0 +1,6 @@
+numpy==1.19.0
+pandas==1.1.5
+torch==1.10.2
+torchaudio==0.10.2
+sounddevice==0.3.5
+scipy==1.5.4
