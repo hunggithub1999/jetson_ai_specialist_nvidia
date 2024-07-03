@@ -1,4 +1,3 @@
-# jetson_ai_specialist_nvidia
 
 # The project is detect abnormal device by audio data analysis
 
@@ -15,7 +14,7 @@
  - Lcd mini 7 inch
  - Micro record audio
 
-#-----------------------------------------------------------
+# -----------------------------------------------------------
 
 # How to run project
 ## Step 1: download source code
