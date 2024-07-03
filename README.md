@@ -31,6 +31,6 @@
  - You can use your own data if you want.
  - Run file train_model.py to train model sound detection with 50 epoch
 
-## step 4: Run script detect abnormal sound realtime
+## Step 4: Run script detect abnormal sound realtime
  - Run file detect_realtime.py to detect status of fan in realtime
  - There are two stage of fan, one is fan run normal , one that I simulated the error by inserting a piece of paper while the fan was spinning
